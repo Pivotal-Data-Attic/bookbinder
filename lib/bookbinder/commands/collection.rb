@@ -98,7 +98,7 @@ module Bookbinder
             Preprocessing::DitaPreprocessor.new(
               DitaHtmlToMiddlemanFormatter.new(local_filesystem_accessor, dita_json_generator, html_document_manipulator),
               local_filesystem_accessor,
-              DitaCommandCreator.new(ENV['PATH_TO_DITA_OT_LIBRARY']),
+              DitaCommandCreator.new('/cygdrive/c/DITA-OT1.7.5'),
               sheller
             ),
             Preprocessing::LinkToSiteGenDir.new(local_filesystem_accessor, subnav_generator_factory)
