@@ -1,4 +1,4 @@
-[![Code Climate](https://codeclimate.com/github/pivotal-cf/docs-bookbinder.png)](https://codeclimate.com/github/pivotal-cf/bookbinder) [![Build Status](https://travis-ci.org/pivotal-cf/bookbinder.svg?branch=master)](https://travis-ci.org/pivotal-cf/bookbinder)
+<h1> VMware has ended active development of this project, this repository will no longer be updated.</h1><br>[![Code Climate](https://codeclimate.com/github/pivotal-cf/docs-bookbinder.png)](https://codeclimate.com/github/pivotal-cf/bookbinder) [![Build Status](https://travis-ci.org/pivotal-cf/bookbinder.svg?branch=master)](https://travis-ci.org/pivotal-cf/bookbinder)
 # Bookbinder
 
 **Note**: The Bookbinder gem is now named `bookbindery`, and this GitHub repository is no longer a supported gem source for the gem. To use the Bookbinder gem, include the following in your book's Gemfile:
